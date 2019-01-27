@@ -28,6 +28,7 @@ Python is developed by Guido van Rossum. Guido van Rossum started implementing P
 
 ## Implementation of Python :
 This part is coding part and theoritical part of python basic.Full implementation notebook is [here.]( https://goo.gl/NErwwb)
+
 1.Variables and Maths Operations
 
 2.Casting
