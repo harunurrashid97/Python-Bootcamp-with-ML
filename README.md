@@ -29,13 +29,21 @@ Python is developed by Guido van Rossum. Guido van Rossum started implementing P
 ## Implementation of Python :
 This part is coding part and theoritical part of python basic.Full implementation notebook is [here.]( https://goo.gl/NErwwb)
 1.Variables and Maths Operations
+
 2.Casting
+
 3.String
+
 4.List
+
 5.Tuples
+
 6.Sets
+
 7.Dictionaries
+
 8.User Input
+
 # Conclusion:
 Thanks for reading this Bootcamp's notebook. If you have any suggestion feel free to reach me in the comment or [sent mail](harunspeedy1995@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/harun-ur-rashid6647/). Stay in touch for more update and Python Bootcamp Part-2 & Part-3. Thank you. 😎
 ![Imgur](https://i.imgur.com/DqK5lrP.jpg)
