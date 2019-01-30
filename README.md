@@ -51,5 +51,28 @@ Thanks for reading this Bootcamp's notebook. If you have any suggestion feel fre
 For the full code visit [Github](https://github.com/harunshimanto/Python-Bootcamp-with-ML) 
 If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.
 
+# Day-02:Python Intermediate
+------------------------------
+* Implementation of python(Part-02) 
+  * If-Elif-Else
+  * For Loop
+  * While Loop
+  * Functions
+  * Lambda expressions
+  * List Comprehensions
+  * Errors and Exceptions Handling
+  * Math Module
+  * Map
+Full implementation notebook is [here.](https://goo.gl/hTVWak)
+
+# Conclusion:
+Thanks for reading this Bootcamp's notebook(Day02). If you have any suggestion feel free to reach me in the comment or [sent mail](harunspeedy1995@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/harun-ur-rashid6647/). Stay in touch for more update and Python Bootcamp Part-3. Thank you. 😎
+
+**If you missed [Day-01](https://goo.gl/NErwwb) then check this firstly.**
+![Imgur](https://i.imgur.com/xKwRrP4.jpg)
+For the full code visit [Github](https://github.com/harunshimanto/Python-Bootcamp-with-ML) 
+
+**If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.**
+
 # Contributing 
 [![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/0)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/0)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/1)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/1)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/2)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/2)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/3)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/3)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/4)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/4)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/5)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/5)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/6)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/6)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/7)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/7)
